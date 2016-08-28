@@ -2,10 +2,13 @@
 //
 
 #include "stdafx.h"
+using namespace std;
+#include <iostream>
 
 
 int main()
 {
+	int a = 1;
+	cout << "test " << a << endl;
     return 0;
 }
-
